@@ -16,37 +16,35 @@
 
 ---
 
-About Me
+### 🧑‍💻 About Me
 
-💻 Programming & Security Automation
-Designing and building tools using Python, Go, C, JavaScript, Bash, and PHP for security automation, exploitation testing, and malware research.
+💻 **Programming & Security Automation**  
+Designing and building tools using Python, Go, C, JavaScript, Bash, and PHP for security automation, exploitation testing, and malware research
 
-🌐 Web & Application Security Research
-Analyzing vulnerabilities in CMS platforms, servers, and databases, including exploitation techniques, impact assessment, and remediation strategies.
+🌐 **Web & Application Security Research**  
+Analyzing vulnerabilities in CMS platforms, servers, and databases, including exploitation techniques, impact assessment, and remediation strategies
 
-⛓ Reverse Engineering & Malware Analysis
-Conducting static and dynamic analysis, deobfuscation, behavioral profiling, and controlled password-cracking experiments in lab environments.
+⛓ **Reverse Engineering & Malware Analysis**  
+Conducting static and dynamic analysis, deobfuscation, behavioral profiling, and controlled password-cracking experiments in lab environments
 
-🚀 DDoS & Botnet Research (Defensive Focus)
-Studying traffic patterns, botnet architectures, and protocol-level attack techniques to improve detection and mitigation capabilities.
+🚀 **DDoS & Botnet Research (Defensive Focus)**  
+Studying traffic patterns, botnet architectures, and protocol-level attack techniques to improve detection and mitigation capabilities
 
-👀 OSINT & Digital Investigation
-Investigating leaked data, tracking digital footprints, and performing attribution-oriented research.
+👀 **OSINT & Digital Investigation**  
+Investigating leaked data, tracking digital footprints, and performing attribution-oriented research
 
-📊 Cyber Threat Intelligence
-Monitoring threat activity, correlating incidents, and analyzing breach data to understand attacker behavior and evolving trends.
+📊 **Cyber Threat Intelligence**  
+Monitoring threat activity, correlating incidents, and analyzing breach data to understand attacker behavior and evolving trends
 
-📧 Email Security & Abuse Prevention
-Researching phishing techniques, automated abuse, and developing anti-spam and mitigation strategies.
+📧 **Email Security & Abuse Prevention**  
+Researching phishing techniques, automated abuse, and developing anti-spam and mitigation strategies
 
-🔍 Penetration Testing
-Performing Black-box, White-box, and Grey-box assessments using both industry-standard tools and custom research tooling.
+🔍 **Penetration Testing**  
+Performing Black-box, White-box, and Grey-box assessments using both industry-standard tools and custom research tooling
 
-🧑‍💻 Independent Researcher
-Operating independently with a private, self-managed research workflow, handling analysis, tooling, and execution personally.
+🧑‍💻 **Independent Researcher**  
+Operating independently with a private, self-managed research workflow, handling analysis, tooling, and execution personally
 
-🎯 Philosophy
-Security is not just about breaking systems, but understanding how technology, human behavior, and ethics intersect to build resilient defenses.
 ---
 
 ### 🧰 Tech Stack
