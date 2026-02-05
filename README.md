@@ -3,7 +3,7 @@
 <h3 align="center">Programmingholic | Cybersecurity Researcher</h3>
 
 <p align="center">
-  <img src="assets/hacker-36.gif" width="420" />
+  <img src="hacker-36.gif" width="420" />
 </p>
 
 <p align="center">
