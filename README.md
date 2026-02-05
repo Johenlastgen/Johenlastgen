@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm JohenLastGen.</h1>
+<h1 align="center">Hi, i'm JohenLastGen.</h1>
 <p align="center"><img src="icegif-93.gif" /></p>
 <h3 align="center">Programmingholic | Cybersecurity Researcher</h3>
 
