@@ -1,10 +1,10 @@
 <h1 align="center">Hello, i'm JohenLastGen.</h1>
 <p align="center"><img src="icegif-93.gif" /></p>
-<h3 align="center">Programmingholic | Cybersecurity Researcher | Forex Trader</h3>
+<h3 align="center">Programmingholic | Cybersecurity Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=520&lines=Pythonic+by+Heart;Go+Security+Engineer;Botnet+%26+DDoS+Research;Reverse+Engineering+Enthusiast;AI%2FML+Security;Alchemist+Forex+Trader;XAUUSDholic" alt="Typing SVG" /><br>
-  <img src="https://komarev.com/ghpvc/?username=TaliGanda&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=1DD2AF&width=420&lines=Cybersecurity+Researcher;Go+Security+Engineer;Reverse+Engineering" alt="Typing SVG" /><br>
+  <img src="https://komarev.com/ghpvc/?username=JohenLastGen&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
