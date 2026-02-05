@@ -3,9 +3,16 @@
 <h3 align="center">Programmingholic | Cybersecurity Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=1DD2AF&width=420&lines=Cybersecurity+Researcher;Go+Security+Engineer;Reverse+Engineering" alt="Typing SVG" /><br>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=1DD2AF&center=true&vCenter=true&width=360&lines=Cybersecurity+Researcher;Go+Security+Engineer;Reverse+Engineering"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JohenLastGen&color=blue&style=flat-square&label=Profile+Views" />
 </p>
+
 
 ---
 
