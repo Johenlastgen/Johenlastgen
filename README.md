@@ -16,39 +16,37 @@
 
 ---
 
-### 👨‍💻 About Me
+About Me
 
-💻 **Programming & Automation**  
-Python, Go, C, JavaScript, Bash, PHP for security automation, tooling, and malware analysis
+💻 Programming & Security Automation
+Designing and building tools using Python, Go, C, JavaScript, Bash, and PHP for security automation, exploitation testing, and malware research.
 
-🌐 **Web & Application Security**  
-CMS, server, and database vulnerability analysis, exploitation research, mitigation & recovery
+🌐 Web & Application Security Research
+Analyzing vulnerabilities in CMS platforms, servers, and databases, including exploitation techniques, impact assessment, and remediation strategies.
 
-⛓ **Reverse Engineering & Malware Analysis**  
-Static & dynamic analysis, deobfuscation, behavior analysis, password cracking (lab-based)
+⛓ Reverse Engineering & Malware Analysis
+Conducting static and dynamic analysis, deobfuscation, behavioral profiling, and controlled password-cracking experiments in lab environments.
 
-🚀 **DDoS & Botnet Research (Defensive)**  
-Traffic analysis, protocol-level attack understanding, detection & mitigation strategies
+🚀 DDoS & Botnet Research (Defensive Focus)
+Studying traffic patterns, botnet architectures, and protocol-level attack techniques to improve detection and mitigation capabilities.
 
-👀 **OSINT & Digital Investigation**  
-Leaked data analysis, digital trace tracking, attribution research
+👀 OSINT & Digital Investigation
+Investigating leaked data, tracking digital footprints, and performing attribution-oriented research.
 
-📊 **Cyber Threat Intelligence**  
-Data breach analysis, threat monitoring, incident correlation
+📊 Cyber Threat Intelligence
+Monitoring threat activity, correlating incidents, and analyzing breach data to understand attacker behavior and evolving trends.
 
-📧 **Email Security & Anti-Abuse**  
-Phishing detection, bot abuse mitigation, anti-spam strategies
+📧 Email Security & Abuse Prevention
+Researching phishing techniques, automated abuse, and developing anti-spam and mitigation strategies.
 
-🔍 **Penetration Testing**  
-Black-box, White-box, Grey-box testing  
-Tools: Metasploit, Burp Suite, Nmap, Wireshark
+🔍 Penetration Testing
+Performing Black-box, White-box, and Grey-box assessments using both industry-standard tools and custom research tooling.
 
-👥 **Team Leadership**  
-Leading teams in high-pressure cybersecurity environments
+🧑‍💻 Independent Researcher
+Operating independently with a private, self-managed research workflow, handling analysis, tooling, and execution personally.
 
-🎯 **Philosophy**  
-Security is a balance of technology, human behavior, and ethics
-
+🎯 Philosophy
+Security is not just about breaking systems, but understanding how technology, human behavior, and ethics intersect to build resilient defenses.
 ---
 
 ### 🧰 Tech Stack
